@@ -1,0 +1,13 @@
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\bin\Release\Café au Bean.exe.config
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\bin\Release\Café au Bean.exe
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\bin\Release\Café au Bean.pdb
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\bin\Release\Café au Bean.xml
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café_au_Bean.manualEditSales.resources
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café_au_Bean.mainWindow.resources
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café_au_Bean.Resources.resources
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café au Bean.vbproj.GenerateResource.Cache
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café au Bean.exe
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café au Bean.xml
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café au Bean.pdb
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café au Bean.vbprojResolveAssemblyReference.cache
+C:\Users\mario\documents\visual studio 2017\Projects\Café au Bean\Café au Bean\obj\Release\Café_au_Bean.newSalesWindow.resources
