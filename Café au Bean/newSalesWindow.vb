@@ -100,7 +100,7 @@
         My.Settings.Save()
     End Function
 
-    'Modules
+    'Subs
 
     'Runs whenever the complete button is clicked in the form
     Private Sub completeButton_Click(sender As Object, e As EventArgs) Handles completeButton.Click

@@ -70,7 +70,7 @@
         saveSalesTotal()
     End Function
 
-    'Modules
+    'Subs
 
     'Runs upon the form opening
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
